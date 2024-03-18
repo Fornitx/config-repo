@@ -1,0 +1,7 @@
+spring:
+  profiles:
+    active: demo
+
+appservice:
+  prop1: test-dev-1
+  prop2: test-dev-2
