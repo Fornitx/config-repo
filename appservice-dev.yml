@@ -1,5 +1,5 @@
 spring:
-  profiles: dev
+  profiles: profile1
 
 appservice:
   prop1: test-dev-1

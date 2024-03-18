@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: demo
+    active: profile2
 
 appservice:
   prop1: test-dev-1
